@@ -38,7 +38,7 @@
 
 ## O que deve ser entregue:
 
-- Um arquivo compactado (.zip) contendo:
+- Um link para seu repositório público do github:
 
   - O seu arquivo principal chamado index.html.
 
